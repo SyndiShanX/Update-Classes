@@ -28,5 +28,5 @@ while i < classNum:
 
   i = i + 2
 
-with open(fileDir + 'Output.txt', "w") as outputFile:
+with open(fileDir + 'Output.css', "w") as outputFile:
   outputFile.write(themeText)
