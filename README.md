@@ -15,4 +15,16 @@ You can Generate the Numbers Easily using this Site: https://numbergenerator.org
 
 * Run `python Update-Classes.py` in Terminal
 
-* The Updated File will be Output to the Current Directory Opened in Terminal as Output.txt
+* Enter the Directory for your Theme File
+
+* The Updated File will be Output to the Current Directory Opened in Terminal as Output.css
+
+## To use Executable:
+
+* Download `Update-Classes.exe` from the [Releases](https://github.com/SyndiShanX/Update-Classes/releases) Page
+
+* Run `Update-Classes.exe`
+
+* Enter the Directory for your Theme File
+
+* The Updated File will be Output to the Current Directory as Output.css
