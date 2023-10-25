@@ -1,4 +1,6 @@
 *.exe
 *.bat
 *.ico
+*.css
 build_env/*
+Classes_Source/*

@@ -3,6 +3,9 @@ Updates the Classes in a Theme File using a [Change List](https://github.com/Syn
 
 Place the Old Class on Line above the New Class (Don't leave Blank Lines)
 
+## Website
+I have also added this script to my Website: https://syndishanx.github.io/Website/Update_Classes.html
+
 ## To Run Script:
 
 #### Requirements: Python
