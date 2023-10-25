@@ -27418,3 +27418,5 @@ wrapper-3ZfvyF
 wrapper_cd625e
 wrapper-n2dlvs
 wrapper_dcecd7
+tabBarItem-30Te4-
+tabBarItem_b56b35
