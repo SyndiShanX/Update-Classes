@@ -1,7 +1,7 @@
 # Update-Classes
 Updates the Classes in a Theme File using a [Change List](https://github.com/SyndiShanX/Update-Classes/blob/main/Changes.txt)
 
-Place the Old Class on Line above the New Class (Don't leave Blank Lines)
+Place the Old Class one Line above the New Class (Don't leave Blank Lines)
 
 ## Website
 I have also added this script to my Website: https://syndishanx.github.io/Website/Update_Classes.html
