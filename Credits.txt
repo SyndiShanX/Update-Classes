@@ -1,0 +1,2 @@
+<a class="link" target=”_blank” href="https://github.com/itmesarah/classchanges">Sarah's Class Changes Repo for the Discord Class Change History</a><br>
+<a class="link" target=”_blank” href="https://github.com/NyxIsBad/discordscripts">Nightflower's Script Repo for Processing Sarah's List into this Diff Format</a>
