@@ -1,6 +1,6 @@
 inputFileDir = 'Changes.txt'
-outputFileDir1 = 'Old_Output.txt'
-outputFileDir2 = 'New_Output.txt'
+outputFileDir1 = 'Old_Classes.txt'
+outputFileDir2 = 'New_Classes.txt'
 
 outputText1 = ''
 outputText2 = ''

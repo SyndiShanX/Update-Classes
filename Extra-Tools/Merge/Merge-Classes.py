@@ -1,7 +1,7 @@
 from itertools import zip_longest
 
-filename1 = 'Old-Classes.txt'
-filename2 = 'New-Classes.txt'
+filename1 = 'Old_Classes.txt'
+filename2 = 'New_Classes.txt'
 outfilename = 'Output.txt'
 
 with open(filename1) as f1, open(filename2) as f2, open(outfilename, 'w') as of:

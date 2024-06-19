@@ -1,4 +1,4 @@
-inputFileDir = 'classes_mapping.txt'
+inputFileDir = 'Changes.txt'
 outputFileDir = 'Output.txt'
 
 outputText = ''
