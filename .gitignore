@@ -4,3 +4,9 @@
 *.css
 build_env/*
 Classes_Source/*
+Extra-Tools/Compare/*.txt
+Extra-Tools/Compare/*.js
+Extra-Tools/Deduplicate/*.txt
+Extra-Tools/Invert/*.txt
+Extra-Tools/Merge/*.txt
+Extra-Tools/Split/*.txt
