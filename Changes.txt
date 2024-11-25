@@ -104078,8 +104078,6 @@ rewardHighlightLogotype_fc6f68
 rewardHighlightLogotype_efa999
 iframe_abdb08
 iframe_ba7877
-footer_d71945
-footer_f8ec41
 gradient_d71945
 gradient_f8ec41
 profileEffectContainer_b74403
@@ -104090,3 +104088,5 @@ profileEffect_b74403
 profileEffect_d0300f
 avatarDecoration_b74403
 avatarDecoration_d0300f
+footer_f8ec41
+footer_d71945
