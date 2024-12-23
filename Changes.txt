@@ -104440,3 +104440,13 @@ slowModeIcon_d7ebeb
 slowModeIcon_f85cd6
 cooldownWrapper_d7ebeb
 cooldownWrapper_f85cd6
+innerWrapper_c511e4
+innerWrapperV1_c511e4
+chatSidebarOpen_d880dc
+sidebarOpen_d880dc
+rulesInputNumber_f152fa
+rulesContainer_b4e3a7
+rulesTextAreaInput_f152fa
+rulesTextAreaInput_b4e3a7
+emptyCrownIcon_cf8a7d
+emptyWinnerImage_cf8a7d
