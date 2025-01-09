@@ -104450,3 +104450,5 @@ rulesTextAreaInput_f152fa
 rulesTextAreaInput_b4e3a7
 emptyCrownIcon_cf8a7d
 emptyWinnerImage_cf8a7d
+fixedDiscoveryIcon_fea3ef
+discoveryIcon_fea3ef
