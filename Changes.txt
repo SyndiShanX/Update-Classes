@@ -104564,3 +104564,11 @@ badgeFireGlow_b23945
 badgeFireGlow_ab8580
 badgeOpalGlow_b23945
 badgeOpalGlow_ab8580
+icon_ad923e
+icon_ea6c42
+textRuler_ad923e
+textRuler_ea6c42
+questsIcon_ad923e
+questsIcon_ea6c42
+emoji_ad923e
+emoji_f6e3aa
