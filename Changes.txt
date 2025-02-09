@@ -143392,3 +143392,5 @@ premiumIcon_a78967
 premiumIcon_c6d3dc
 logoPrimary_a78967
 logoPrimary_c6d3dc
+balanceCounterText_a3e8db
+balanceCounterText__98f64
