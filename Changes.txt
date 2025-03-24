@@ -143692,3 +143692,17 @@ profilePreview__7fd1c
 profilePreview_dbc4b7
 needInspiration__7fd1c
 needInspiration_dbc4b7
+priceLine__794a8
+priceLine__05bc9
+orbText__794a8
+orbText__05bc9
+priceLine__37ae9
+priceLine__132c6
+closeButton_f01b76
+closeButton__2a5c7
+closeButtonIcon_f01b76
+closeButtonIcon__2a5c7
+button_f01b76
+button__2a5c7
+buttonColor_f01b76
+buttonColor__2a5c7
