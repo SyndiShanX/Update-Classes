@@ -144272,3 +144272,5 @@ closedFolderIconWrapper__48112
 folderPreview__48112
 guildIcon__48112
 folderPreviewGuildIcon__48112
+errorBanner__0c773
+errorBanner__3405b
