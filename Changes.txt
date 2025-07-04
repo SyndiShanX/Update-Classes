@@ -145068,3 +145068,5 @@ hidden_bc663c
 inactive_bc663c
 positionLayer_fc71d3
 repositionLayerSidebarPopout_fc71d3
+caughtUpIcon_ea5470
+caughtUpCloseIcon_ea5470
