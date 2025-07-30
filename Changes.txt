@@ -145466,3 +145466,5 @@ inlineVideo__9c640
 inlineAsset__9c640
 videoContainer__9c640
 assetContainer__9c640
+tabBarItem_d1d9f3
+tabBarItem__37bfc
