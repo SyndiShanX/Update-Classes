@@ -1,1 +1,1 @@
-<a class="link" target=”_blank” href="https://github.com/itmesarah/classchanges">Sarah's Class Changes Repo for the Discord Class Change History</a>
+<a class="link" target=”_blank” href="https://github.com/IBeSarah/DiscordClasses">Sarah's Class Changes Repo for the Discord Class Change History</a>
