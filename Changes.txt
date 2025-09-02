@@ -145578,3 +145578,11 @@ soundIcon_b4b0bb
 soundIcon__90637
 icon_b4b0bb
 icon__90637
+dragClick__62dd3
+dragHandleButton__62dd3
+hitbox__62dd3
+dragAndDropHitbox__62dd3
+scroller__37bfc
+tabListScroller__37bfc
+noGutter__37bfc
+tabPanelScroller__37bfc
